@@ -1,0 +1,18 @@
+#spring:
+#  mail:
+#    host: smtp.163.com
+#    username: m15275041535@163.com
+#    password: 19960527chao
+#    port: 25
+#    protocol: smtp
+#    default-encoding: UTF-8
+
+spring:
+  mail:
+    host: smtp.qq.com
+    port: 587
+    username: 1539835012@qq.com
+    password: aionfsibjhnajbge
+    protocol: smtp
+    default-encoding: UTF-8
+
